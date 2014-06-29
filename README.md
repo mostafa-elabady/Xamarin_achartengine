@@ -3,6 +3,8 @@ Xamarin_achartengine
 
 An example for using achartengine library for Xamarin. Building a java binding for the jar library.
 
+A Xamarin Java binding library for the AChartEngine.
+
 Contains 2 project:-
 
 1. Java binding for the [achartengine library](https://code.google.com/p/achartengine/ "achartengine")
